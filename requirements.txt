@@ -1,0 +1,8 @@
+weaviate-client
+fastapi
+uvicorn
+openai
+qdrant-client
+litellm
+pydantic
+motor
